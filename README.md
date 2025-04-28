@@ -8,6 +8,8 @@ Yêu cầu: PHẢI DEFINE SIZE MAP - 4 cái limit ở đầu ( cho limit nhỏ h
 
 Bug:
 test_1: Hơi lag, nhiều lúc bị trượt vì update map bị chậm [ WARN] [1745838890.815485065, 277.321000000]: Map update loop missed its desired rate of 5.0000Hz... the loop actually took 1.0270 seconds
+
+
 test_2: Chạy oke nhưng đủ kiểu lỗi:
 [ERROR] [1745838078.791977813, 133.267000000]: Extrapolation Error: Lookup would require extrapolation 0.005000000s into the future.  Requested time 133.267000000 but the latest data is at time 133.262000000, when looking up transform from frame [odom] to frame [map]
 [ERROR] [1745838078.792069212, 133.267000000]: Global Frame: odom Plan Frame size 80: map
