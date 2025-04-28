@@ -1,3 +1,5 @@
+tải TEB: http://wiki.ros.org/teb_local_planner/Tutorials/Setup%20and%20test%20Optimization
+
 Policy:
 Yêu cầu: PHẢI DEFINE SIZE MAP - 4 cái limit ở đầu ( cho limit nhỏ hơn size khoảng 0.8-1m cho chắc ăn )
 => Chọn random goal thuộc map size thỏa mãn điều kiện:
