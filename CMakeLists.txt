@@ -23,7 +23,6 @@ catkin_package(
 )
 
 catkin_install_python(PROGRAMS
-  scripts/run.py
   scripts/test.py
   scripts/test_1.py
   scripts/test_2.py
